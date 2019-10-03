@@ -1,0 +1,1 @@
+(window["webpackJsonpfuse-react-app"]=window["webpackJsonpfuse-react-app"]||[]).push([[146],{2212:function(e,a,t){"use strict";t.r(a);var n=t(0),r=t.n(n),c=t(862),o=t(13),p=Object(c.a)({root:{padding:24}});a.default=function(){var e=p();return r.a.createElement("div",{className:e.root},r.a.createElement(o.b,null))}}}]);
